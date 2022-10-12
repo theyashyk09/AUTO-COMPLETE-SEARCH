@@ -6,6 +6,8 @@ This is a auto complete search app developed using html, css and javascript whic
 
 ## Video
 
+https://user-images.githubusercontent.com/109405477/195435992-c60e6751-ef1c-46e9-8f90-d1ce409986ae.mp4
+
 **Check it out at : https://autocompletesearchnow.netlify.app/**
 
 ## 🚀 About Me
